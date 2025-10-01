@@ -1,0 +1,2 @@
+id,smiles,parsed_ok,pred_pIC50
+mol0,CCO,True,5.097869390703899

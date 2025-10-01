@@ -1,0 +1,18 @@
+{
+  "input_rows": 4244,
+  "invalid_smiles": 0,
+  "unique_molecules": 3068,
+  "duplicates_removed": 1176,
+  "class_counts": {
+    "active": 1533,
+    "inactive": 654,
+    "intermediate": 881,
+    "unknown": 0
+  },
+  "thresholds": {
+    "active_pIC50_ge": 6.0,
+    "inactive_pIC50_lt": 5.0
+  },
+  "input_path": "data/processed/bioactivity_data_3class_pIC50.csv",
+  "output_path": "data/processed/bioactivity_data_3class_pIC50_dedup.csv"
+}

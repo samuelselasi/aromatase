@@ -1,0 +1,2 @@
+id,smiles,parsed_ok,prob_active,pred_class
+mol0,CC(=O)Oc1ccccc1C(=O)O,True,0.14884496314627532,inactive

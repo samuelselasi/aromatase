@@ -1,0 +1,2 @@
+input_rows,invalid_smiles,unique_molecules,duplicates_removed,active,inactive,intermediate,unknown
+4244,0,3068,1176,1533,654,881,0
