@@ -81,6 +81,19 @@ head results/docking/scores.csv
 make rank-hits TOP=50
 make export-top-poses TOP=20
 
+# ===== External validation workflow =====
+# fetch BindingDB aromatase data, clean, deduplicate against training, build FPS,
+# run your saved models, and compute metrics
+make external-all
+# artifacts:
+#   data/external/bindingdb/aromatase_bindingdb_raw.{tsv,csv}
+#   data/external/external_clean.csv
+#   data/external/external_fps_morgan.csv
+#   results/external/pred_external_cls.csv
+#   results/external/pred_external_reg.csv
+#   results/external/metrics_cls.json
+#   results/external/metrics_reg.json
+
 ```
 
 ### Key Outputs
