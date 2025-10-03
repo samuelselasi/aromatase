@@ -1,105 +1,201 @@
-assay_chembl_id,canonical_smiles,pchembl_value,relation,standard_relation,standard_type,standard_units,standard_value,type,units,value,can_smi,pIC50,is_active
-CHEMBL643384,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1,6.12,=,=,IC50,nM,750.0,IC50,uM,0.75,CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1,6.12,1
-CHEMBL643384,O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1,7.0,=,=,IC50,nM,100.0,IC50,uM,0.1,O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1,7.0,1
-CHEMBL643384,CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F)c1ccccc1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F)c1ccccc1,,0
-CHEMBL643384,O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F,6.52,=,=,IC50,nM,300.0,IC50,uM,0.3,O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F,6.52,1
-CHEMBL643384,CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C,6.1,=,=,IC50,nM,800.0,IC50,uM,0.8,CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C,6.1,1
-CHEMBL643384,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)c1ccccc1,5.62,=,=,IC50,nM,2400.0,IC50,uM,2.4,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)c1ccccc1,5.62,0
-CHEMBL643384,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,7.0,=,=,IC50,nM,100.0,IC50,uM,0.1,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,7.0,1
-CHEMBL643384,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCOCC1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCOCC1,,0
-CHEMBL643384,COc1ccc(-c2nc(SC)n(C(=O)N(C)C)n2)cc1,6.1,=,=,IC50,nM,800.0,IC50,uM,0.8,COc1ccc(-c2nc(SC)n(C(=O)N(C)C)n2)cc1,6.1,1
-CHEMBL643384,CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)c1ccccc1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)c1ccccc1,,0
-CHEMBL643384,CCSc1nc(-c2ccc(OC)cc2)nn1C(=O)N1CCOCC1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CCSc1nc(-c2ccc(OC)cc2)nn1C(=O)N1CCOCC1,,0
-CHEMBL643384,CSc1nc(-c2ccc3ccccc3c2)nn1C(=O)N(C)C,7.3,=,=,IC50,nM,50.0,IC50,uM,0.05,CSc1nc(-c2ccc3ccccc3c2)nn1C(=O)N(C)C,7.3,1
-CHEMBL643376,C[C@H]1C(=O)N(C(=O)NCc2ccccc2)[C@@H]1Oc1ccc(C(=O)C(C)(C)C)cc1,,>,>,IC50,nM,100000.0,IC50,uM,100.0,C[C@H]1C(=O)N(C(=O)NCc2ccccc2)[C@@H]1Oc1ccc(C(=O)C(C)(C)C)cc1,,0
-CHEMBL643384,CSc1nc(-c2ccc(-c3ccccc3)cc2)nn1C(=O)N(C)C,6.25,=,=,IC50,nM,560.0,IC50,uM,0.56,CSc1nc(-c2ccc(-c3ccccc3)cc2)nn1C(=O)N(C)C,6.25,1
-CHEMBL643384,CSc1nc(/C=C/c2ccccc2)nn1C(=O)N(C)C,,<,<,IC50,nM,10.0,IC50,uM,0.01,CSc1nc(/C=C/c2ccccc2)nn1C(=O)N(C)C,,0
-CHEMBL643384,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,,<,<,IC50,nM,10.0,IC50,uM,0.01,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,,0
-CHEMBL643384,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,5.85,=,=,IC50,nM,1400.0,IC50,uM,1.4,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,5.85,0
-CHEMBL643384,Cc1c(C(C)C)c(=O)on1C(=O)N1CCC[C@H](C)C1,4.77,=,=,IC50,nM,17000.0,IC50,uM,17.0,Cc1c(C(C)C)c(=O)on1C(=O)N1CCC[C@H](C)C1,4.77,0
-CHEMBL643384,CCSc1nc(-c2ccc(OC)cc2)nn1C(=O)N(C)c1ccccc1,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CCSc1nc(-c2ccc(OC)cc2)nn1C(=O)N(C)c1ccccc1,5.96,0
-CHEMBL643384,CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)c1ccccc1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)c1ccccc1,,0
-CHEMBL643384,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,7.58,=,=,IC50,nM,26.0,IC50,uM,0.026,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCCCC1,7.58,1
-CHEMBL643384,O=C(N1CCOCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F,,>,>,IC50,nM,50000.0,IC50,uM,50.0,O=C(N1CCOCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F,,0
-CHEMBL643384,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,6.1,=,=,IC50,nM,800.0,IC50,uM,0.8,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,6.1,1
-CHEMBL643384,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCOCC1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N1CCOCC1,,0
-CHEMBL643385,CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1)c1ccccc1,,,,IC50,nM,,IC50,uM,,CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1)c1ccccc1,,0
-CHEMBL643384,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CCCCCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,,0
-CHEMBL643384,CCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,7.25,=,=,IC50,nM,56.0,IC50,uM,0.056,CCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,7.25,1
-CHEMBL643384,CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,6.7,=,=,IC50,nM,200.0,IC50,uM,0.2,CCCCCCSc1nc(-c2ccc(C)cc2)nn1C(=O)N(C)C,6.7,1
-CHEMBL643384,CCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,6.52,=,=,IC50,nM,300.0,IC50,uM,0.3,CCCSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)C,6.52,1
-CHEMBL643384,Cc1ccc(-c2nc(SCC(F)(F)F)n(C(=O)N(C)C)n2)cc1,6.7,=,=,IC50,nM,200.0,IC50,uM,0.2,Cc1ccc(-c2nc(SCC(F)(F)F)n(C(=O)N(C)C)n2)cc1,6.7,1
-CHEMBL643384,COc1nn(-c2ccc(NC(=O)c3ccc(C(C)(C)C)cc3)cc2)c(=O)o1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,COc1nn(-c2ccc(NC(=O)c3ccc(C(C)(C)C)cc3)cc2)c(=O)o1,,0
-CHEMBL643384,CSc1nc(-c2ccc(C(F)(F)F)cc2)nn1C(=O)N(C)C,6.3,=,=,IC50,nM,500.0,IC50,uM,0.5,CSc1nc(-c2ccc(C(F)(F)F)cc2)nn1C(=O)N(C)C,6.3,1
-CHEMBL643376,C[C@H]1C(=O)N(C(=O)NCc2ccccc2)[C@@H]1Oc1ccc(C(=O)O)cc1,,>,>,IC50,nM,100000.0,IC50,uM,100.0,C[C@H]1C(=O)N(C(=O)NCc2ccccc2)[C@@H]1Oc1ccc(C(=O)O)cc1,,0
-CHEMBL643384,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N1CCOCC1,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CSc1nc(-c2ccc(C)cc2)nn1C(=O)N1CCOCC1,,0
-CHEMBL634034,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(OC)cc1,,=,=,kn,M-1 min-1,75.0,kn,M-1 min-1,75.0,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(OC)cc1,,0
-CHEMBL644103,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(F)cc1,,,,IC50,nM,,IC50,mM,,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(F)cc1,,0
-CHEMBL636834,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],7.66,=,=,IC50,nM,22.0,IC50,nM,22.0,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-],7.66,1
-CHEMBL644103,CCCS/C(=N\O)C(=O)c1ccc(Br)cc1,,,,IC50,nM,,IC50,mM,,CCCS/C(=N\O)C(=O)c1ccc(Br)cc1,,0
-CHEMBL634034,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(F)cc1.[Cl-],,=,=,kn,M-1 min-1,15.76,kn,M-1 min-1,15.76,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(F)cc1.[Cl-],,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCN4CCOCC4)ccc3N(C)[C@@H]12,5.42,=,=,IC50,nM,3800.0,IC50,uM,3.8,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCN4CCOCC4)ccc3N(C)[C@@H]12,5.42,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,=,=,IC50,nM,40.0,IC50,uM,0.04,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,1
-CHEMBL644103,COc1ccc(C(=O)/C(=N/O)SCCCN(C)C)cc1.O=C(O)C(=O)O,,,,IC50,nM,,IC50,mM,,COc1ccc(C(=O)/C(=N/O)SCCCN(C)C)cc1.O=C(O)C(=O)O,,0
-CHEMBL634034,Cc1ccc(C(=O)/C(=N/O)SCC[N+](C)(C)C)cc1.[Cl-],,=,=,kn,M-1 min-1,23.19,kn,M-1 min-1,23.19,Cc1ccc(C(=O)/C(=N/O)SCC[N+](C)(C)C)cc1.[Cl-],,0
-CHEMBL636834,N#CC(C#N)=C1Nc2ccccc2N1CCNCc1ccc(CN2CCCCC2)o1,7.14,=,=,IC50,nM,73.0,IC50,nM,73.0,N#CC(C#N)=C1Nc2ccccc2N1CCNCc1ccc(CN2CCCCC2)o1,7.14,1
-CHEMBL636834,COc1cc(N)c(Cl)cc1C(=O)NCCNCc1ccc(CN(C)C)o1,5.51,=,=,IC50,nM,3100.0,IC50,nM,3100.0,COc1cc(N)c(Cl)cc1C(=O)NCCNCc1ccc(CN(C)C)o1,5.51,0
-CHEMBL634034,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.Cl,,=,=,kn,M-1 min-1,15.18,kn,M-1 min-1,15.18,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.Cl,,0
-CHEMBL636834,CN1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,5.35,=,=,IC50,nM,4500.0,IC50,nM,4500.0,CN1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,5.35,0
-CHEMBL636834,Oc1nc2ccccc2n1CCNCc1ccc(CN2CCCCC2)o1,5.92,=,=,IC50,nM,1200.0,IC50,nM,1200.0,Oc1nc2ccccc2n1CCNCc1ccc(CN2CCCCC2)o1,5.92,0
-CHEMBL634034,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(OC)cc1.[Cl-],,=,=,kn,M-1 min-1,59.6,kn,M-1 min-1,59.6,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(OC)cc1.[Cl-],,0
-CHEMBL634034,CN(C)CCS/C(=N\O)C(=O)c1ccc(F)cc1,,,,kn,,,kn,M-1 min-1,,CN(C)CCS/C(=N\O)C(=O)c1ccc(F)cc1,,0
-CHEMBL634034,Cc1ccc(C(=O)/C(=N/O)SCCN(C)C)cc1.Cl,,=,=,kn,M-1 min-1,17.7,kn,M-1 min-1,17.7,Cc1ccc(C(=O)/C(=N/O)SCCN(C)C)cc1.Cl,,0
-CHEMBL636834,CC1CCCCN1Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.27,=,=,IC50,nM,540.0,IC50,nM,540.0,CC1CCCCN1Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.27,1
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCCC2)o1,7.52,=,=,IC50,nM,30.0,IC50,nM,30.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCCC2)o1,7.52,1
-CHEMBL636834,CNC(NCCNCc1ccc(CN2CCCCC2)o1)=C(C#N)C#N.Cl,6.08,=,=,IC50,nM,830.0,IC50,nM,830.0,CNC(NCCNCc1ccc(CN2CCCCC2)o1)=C(C#N)C#N.Cl,6.08,1
-CHEMBL636834,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,,>,>,IC50,nM,20000.0,IC50,nM,20000.0,CCN(CC)CCNC(=O)c1cc(Cl)c(N)cc1OC,,0
-CHEMBL634034,COc1ccc(C(=O)/C(=N/O)SCC[N+](C)(C)C)cc1.[Cl-],,=,=,kn,M-1 min-1,52.6,kn,M-1 min-1,52.6,COc1ccc(C(=O)/C(=N/O)SCC[N+](C)(C)C)cc1.[Cl-],,0
-CHEMBL634034,CN(C)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.Cl,,=,=,kn,M-1 min-1,9.46,kn,M-1 min-1,9.46,CN(C)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.Cl,,0
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCC(O)CC2)o1,6.41,=,=,IC50,nM,390.0,IC50,nM,390.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCC(O)CC2)o1,6.41,1
-CHEMBL636834,CN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.41,=,=,IC50,nM,390.0,IC50,nM,390.0,CN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.41,1
-CHEMBL636834,CCN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.37,=,=,IC50,nM,430.0,IC50,nM,430.0,CCN(C)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,6.37,1
-CHEMBL634034,COc1ccc(C(=O)/C(=N/O)SCCN(C)C)cc1,,=,=,kn,M-1 min-1,69.8,kn,M-1 min-1,69.8,COc1ccc(C(=O)/C(=N/O)SCCN(C)C)cc1,,0
-CHEMBL634034,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.[Cl-],,=,=,kn,M-1 min-1,9.29,kn,M-1 min-1,9.29,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.[Cl-],,0
-CHEMBL636834,CCN(CC)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1.Cl,6.22,=,=,IC50,nM,600.0,IC50,nM,600.0,CCN(CC)Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1.Cl,6.22,1
-CHEMBL636834,CN(C)Cc1ccc(CNCCN2CCN/C2=C\[N+](=O)[O-])o1,,>,>,IC50,nM,2000.0,IC50,nM,2000.0,CN(C)Cc1ccc(CNCCN2CCN/C2=C\[N+](=O)[O-])o1,,0
-CHEMBL634034,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.[Cl-],,=,=,kn,M-1 min-1,15.18,kn,M-1 min-1,15.18,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(Cl)cc1.[Cl-],,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCN4CCOCC4)ccc3N(C)[C@@H]12,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCN4CCOCC4)ccc3N(C)[C@@H]12,4.68,0
-CHEMBL645001,CCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,6.54,=,=,IC50,nM,290.0,IC50,uM,0.29,CCCCCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,6.54,1
-CHEMBL641690,O/N=C/c1cc[n+](COC[n+]2ccc(/C=N/O)cc2)cc1.[Cl-].[Cl-],,=,=,kOX,M-1 min-1,2637.0,kOX,M-1 min-1,2637.0,O/N=C/c1cc[n+](COC[n+]2ccc(/C=N/O)cc2)cc1.[Cl-].[Cl-],,0
-CHEMBL645000,CN1CC[C@@]2(C)c3cc(OC(=O)NCCN4CCOCC4)ccc3N(C)[C@@H]12,6.16,=,=,IC50,nM,700.0,IC50,uM,0.7,CN1CC[C@@]2(C)c3cc(OC(=O)NCCN4CCOCC4)ccc3N(C)[C@@H]12,6.16,1
-CHEMBL634034,NC(=O)c1cc[n+](COC[n+]2ccccc2/C=N/O)cc1.[Cl-].[Cl-],,=,=,kn,M-1 min-1,16.3,kn,M-1 min-1,16.3,NC(=O)c1cc[n+](COC[n+]2ccccc2/C=N/O)cc1.[Cl-].[Cl-],,0
-CHEMBL636834,CNC(NCCNCc1ccc(CN(C)C)o1)=C(C#N)C#N,6.2,=,=,IC50,nM,630.0,IC50,nM,630.0,CNC(NCCNCc1ccc(CN(C)C)o1)=C(C#N)C#N,6.2,1
-CHEMBL636834,CNC(NCCNCc1ccc(CN(C(C)C)C(C)C)o1)=C(C#N)C#N,5.68,=,=,IC50,nM,2100.0,IC50,nM,2100.0,CNC(NCCNCc1ccc(CN(C(C)C)C(C)C)o1)=C(C#N)C#N,5.68,0
-CHEMBL634034,CC(C)N(CCS/C(=N\O)C(=O)c1ccc(Cl)cc1)C(C)C.Cl,,=,=,kn,M-1 min-1,12.28,kn,M-1 min-1,12.28,CC(C)N(CCS/C(=N\O)C(=O)c1ccc(Cl)cc1)C(C)C.Cl,,0
-CHEMBL634034,C[n+]1ccccc1C=NO,,=,=,kn,M-1 min-1,50.4,kn,M-1 min-1,50.4,C[n+]1ccccc1C=NO,,0
-CHEMBL634034,CCN(CC)CCS/C(=N\O)C(=O)c1ccccc1.Cl,,=,=,kn,M-1 min-1,6.3,kn,M-1 min-1,6.3,CCN(CC)CCS/C(=N\O)C(=O)c1ccccc1.Cl,,0
-CHEMBL636834,CC1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,6.54,=,=,IC50,nM,290.0,IC50,nM,290.0,CC1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,6.54,1
-CHEMBL634034,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.Cl,,=,=,kn,M-1 min-1,12.3,kn,M-1 min-1,12.3,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.Cl,,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,=,=,IC50,nM,40.0,IC50,uM,0.04,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,1
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC2)o1,7.1,=,=,IC50,nM,80.0,IC50,nM,80.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC2)o1,7.1,1
-CHEMBL636834,Cl.N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CC=CCC2)o1,7.02,=,=,IC50,nM,95.0,IC50,nM,95.0,Cl.N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CC=CCC2)o1,7.02,1
-CHEMBL634034,CN(C)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.Cl,,=,=,kn,M-1 min-1,25.2,kn,M-1 min-1,25.2,CN(C)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.Cl,,0
-CHEMBL634034,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(C#N)cc1.Cl,,=,=,kn,M-1 min-1,4.43,kn,M-1 min-1,4.43,CCN(CC)CCS/C(=N\O)C(=O)c1ccc(C#N)cc1.Cl,,0
-CHEMBL636834,CNC(NCCNCc1ccc(COC)o1)=C(C#N)C#N,,>,>,IC50,nM,20000.0,IC50,nM,20000.0,CNC(NCCNCc1ccc(COC)o1)=C(C#N)C#N,,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.22,=,=,IC50,nM,60.0,IC50,uM,0.06,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.22,1
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.16,=,=,IC50,nM,70.0,IC50,uM,0.07,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.16,1
-CHEMBL636834,CNC(NCCNCc1ccc(CN2CCCC2)o1)=C(C#N)C#N,6.55,=,=,IC50,nM,280.0,IC50,nM,280.0,CNC(NCCNCc1ccc(CN2CCCC2)o1)=C(C#N)C#N,6.55,1
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCOCC2)o1,4.96,=,=,IC50,nM,11000.0,IC50,nM,11000.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCOCC2)o1,4.96,0
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCSCC2)o1,5.82,=,=,IC50,nM,1500.0,IC50,nM,1500.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCSCC2)o1,5.82,0
-CHEMBL636834,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,6.19,=,=,IC50,nM,650.0,IC50,nM,650.0,CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,6.19,1
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,6.03,=,=,IC50,nM,930.0,IC50,uM,0.93,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,6.03,1
-CHEMBL636834,CC1CCCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)C1,6.43,=,=,IC50,nM,370.0,IC50,nM,370.0,CC1CCCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)C1,6.43,1
-CHEMBL636834,CC1CCCC(C)N1Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,5.35,=,=,IC50,nM,4500.0,IC50,nM,4500.0,CC1CCCC(C)N1Cc1ccc(CNCCN2CCNC2=C(C#N)C#N)o1,5.35,0
-CHEMBL634034,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(F)cc1.[Cl-],,=,=,kn,M-1 min-1,15.36,kn,M-1 min-1,15.36,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(F)cc1.[Cl-],,0
-CHEMBL645001,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,7.52,=,=,IC50,nM,30.0,IC50,uM,0.03,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)[C@@H]1N2C,7.52,1
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,5.12,=,=,IC50,nM,7600.0,IC50,uM,7.6,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,5.12,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.1,=,=,IC50,nM,80.0,IC50,uM,0.08,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.1,1
-CHEMBL634034,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(C#N)cc1.[Cl-],,=,=,kn,M-1 min-1,4.38,kn,M-1 min-1,4.38,CC[N+](C)(CC)CCS/C(=N\O)C(=O)c1ccc(C#N)cc1.[Cl-],,0
-CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,6.42,=,=,IC50,nM,380.0,IC50,uM,0.38,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,6.42,1
-CHEMBL636834,COC1CCCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)C1.Cl,5.48,=,=,IC50,nM,3300.0,IC50,nM,3300.0,COC1CCCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)C1.Cl,5.48,0
-CHEMBL634034,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.[I-],,=,=,kn,M-1 min-1,19.9,kn,M-1 min-1,19.9,C[N+](C)(C)CCS/C(=N\O)C(=O)c1ccc(Br)cc1.[I-],,0
-CHEMBL634034,CN(C)CCS/C(=N\O)C(=O)c1cccc2ccccc12.Cl,,,,kn,,,kn,M-1 min-1,,CN(C)CCS/C(=N\O)C(=O)c1cccc2ccccc12.Cl,,0
-CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC(O)C2)o1,6.43,=,=,IC50,nM,370.0,IC50,nM,370.0,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC(O)C2)o1,6.43,1
-CHEMBL636834,C/N=c1\c(O)c(O)\c1=N/CCNCc1ccc(CN2CCCCC2)o1,5.03,=,=,IC50,nM,9300.0,IC50,nM,9300.0,C/N=c1\c(O)c(O)\c1=N/CCNCc1ccc(CN2CCCCC2)o1,5.03,0
-CHEMBL634034,CN(C)CCCS/C(=N\O)C(=O)c1ccc(Br)cc1.O=C(O)C(=O)O,,=,=,kn,M-1 min-1,46.6,kn,M-1 min-1,46.6,CN(C)CCCS/C(=N\O)C(=O)c1ccc(Br)cc1.O=C(O)C(=O)O,,0
+canonical_smiles,standard_type,standard_relation,standard_value,standard_units,pchembl_value,assay_type,target_organism,assay_chembl_id,can_smi,pIC50,is_active
+COc1ccc(C(=O)c2ccc(CN(CCN(C)C)Cc3ccccc3)cc2)cc1OC,IC50,=,8640.0,nM,5.06,B,Homo sapiens,CHEMBL1019313,COc1ccc(C(=O)c2ccc(CN(CCN(C)C)Cc3ccccc3)cc2)cc1OC,5.06,0
+CCN(CCCCCCN1CCN(CCCCCCN(CC)Cc2ccccc2OC)C(=O)C1=O)Cc1ccccc1OC,IC50,=,68.9,nM,7.16,B,Homo sapiens,CHEMBL948464,CCN(CCCCCCN1CCN(CCCCCCN(CC)Cc2ccccc2OC)C(=O)C1=O)Cc1ccccc1OC,7.16,1
+COc1ccc2oc(-c3ccc(CN(C)Cc4ccccc4)cc3)cc(=O)c2c1,IC50,=,18100.0,nM,4.74,B,Homo sapiens,CHEMBL894085,COc1ccc2oc(-c3ccc(CN(C)Cc4ccccc4)cc3)cc(=O)c2c1,4.74,0
+O=C(CCC1CCN(Cc2cccc([N+](=O)[O-])c2)CC1)c1ccc2c(c1)CCN2,IC50,=,64.0,nM,7.19,B,Homo sapiens,CHEMBL1119333,O=C(CCC1CCN(Cc2cccc([N+](=O)[O-])c2)CC1)c1ccc2c(c1)CCN2,7.19,1
+C#CCN(C)Cc1cc2cc(OCCCC3CCN(Cc4ccccc4)CC3)ccc2n1C,IC50,=,380.0,nM,6.42,B,Homo sapiens,CHEMBL1931825,C#CCN(C)Cc1cc2cc(OCCCC3CCN(Cc4ccccc4)CC3)ccc2n1C,6.42,1
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,IC50,=,40.0,nM,7.4,B,Homo sapiens,CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,1
+CNC(=O)Oc1ccc2c(c1)[C@@]1(C)CCN(C)[C@H]1N2C,IC50,=,9890.0,nM,5.0,B,Homo sapiens,CHEMBL859798,CNC(=O)Oc1ccc2c(c1)[C@@]1(C)CCN(C)[C@H]1N2C,5.0,0
+CCN(C)C(=O)Oc1cccc2c1C(N)CC2.Cl,IC50,=,10500.0,nM,4.98,B,Homo sapiens,CHEMBL641288,CCN(C)C(=O)Oc1cccc2c1C(N)CC2.Cl,4.98,0
+CCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)C1C2,IC50,=,154.0,nM,6.81,B,Homo sapiens,CHEMBL875789,CCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)C1C2,6.81,1
+CNC(=O)Oc1cccc2c1OCC1CCN(C)C21,IC50,=,30.0,nM,7.52,B,Homo sapiens,CHEMBL831104,CNC(=O)Oc1cccc2c1OCC1CCN(C)C21,7.52,1
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCOC1N2C,IC50,=,27.0,nM,7.57,B,Homo sapiens,CHEMBL874440,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCOC1N2C,7.57,1
+CN[C@@H](C)C1=CC[C@H]2[C@@H]3CC=C4C[C@@H](OC)CC[C@]4(C)[C@H]3CC[C@]12C,IC50,=,83176.38,nM,4.08,B,Homo sapiens,CHEMBL641237,CN[C@@H](C)C1=CC[C@H]2[C@@H]3CC=C4C[C@@H](OC)CC[C@]4(C)[C@H]3CC[C@]12C,4.08,0
+COc1ccc(C)cc1OC,IC50,=,4900.0,nM,5.31,B,Homo sapiens,CHEMBL643382,COc1ccc(C)cc1OC,5.31,0
+Clc1cccc2c1N=C1CCCCCN1C2,IC50,=,1500.0,nM,5.82,B,Homo sapiens,CHEMBL644110,Clc1cccc2c1N=C1CCCCCN1C2,5.82,0
+CCN(CCCCCC(=O)N[C@H]1CC[C@H](NC(=O)CCCCCN(CC)Cc2ccccc2OC)CC1)Cc1ccccc1OC,IC50,=,8550.0,nM,5.07,B,Homo sapiens,CHEMBL948464,CCN(CCCCCC(=O)N[C@H]1CC[C@H](NC(=O)CCCCCN(CC)Cc2ccccc2OC)CC1)Cc1ccccc1OC,5.07,0
+COc1ccc2cc(C(=O)CCC3CC[N+](C)(Cc4ccccc4)CC3)ccc2c1,IC50,=,50.0,nM,7.3,B,Homo sapiens,CHEMBL644119,COc1ccc2cc(C(=O)CCC3CC[N+](C)(Cc4ccccc4)CC3)ccc2c1,7.3,1
+COc1cc(Br)c(CN2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)cc1OC,IC50,=,1012.9,nM,5.99,B,Homo sapiens,CHEMBL868603,COc1cc(Br)c(CN2CCN(C(c3ccc(F)cc3)c3ccc(F)cc3)CC2)cc1OC,5.99,0
+C=C1c2ccc(Cl)cc2N=C2CCCCCN12,IC50,=,158.49,nM,6.8,B,Homo sapiens,CHEMBL829154,C=C1c2ccc(Cl)cc2N=C2CCCCCN12,6.8,1
+CC(C)(C)c1cc[n+](CCCCCCCCC[n+]2ccc(C(C)(C)C)cc2)cc1.[Br-].[Br-],IC50,=,37.0,nM,7.43,B,Homo sapiens,CHEMBL1646125,CC(C)(C)c1cc[n+](CCCCCCCCC[n+]2ccc(C(C)(C)C)cc2)cc1.[Br-].[Br-],7.43,1
+N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC2)o1,IC50,=,80.0,nM,7.1,B,Homo sapiens,CHEMBL636834,N#CC(C#N)=C1NCCN1CCNCc1ccc(CN2CCCC2)o1,7.1,1
+c1ccc2c(NCCCCCCCNc3ccncc3)c3c(nc2c1)CCCC3,IC50,=,12.8,nM,7.89,B,Homo sapiens,CHEMBL1119333,c1ccc2c(NCCCCCCCNc3ccncc3)c3c(nc2c1)CCCC3,7.89,1
+Clc1ccc2c(NCCCCCCCNc3c4c(nc5cc(Cl)ccc35)-c3ccccc3C4)c3c(nc2c1)CCCC3,IC50,=,12.1,nM,7.92,B,Homo sapiens,CHEMBL1820356,Clc1ccc2c(NCCCCCCCNc3c4c(nc5cc(Cl)ccc35)-c3ccccc3C4)c3c(nc2c1)CCCC3,7.92,1
+C=CC[N+](C)(C)c1cccc(O)c1.[Br-],IC50,=,3000.0,nM,5.52,B,Homo sapiens,CHEMBL645004,C=CC[N+](C)(C)c1cccc(O)c1.[Br-],5.52,0
+CCCCCCNC(=O)Oc1ccc2c(c1)C1CCN(CCC)C1C2,IC50,=,546.0,nM,6.26,B,Homo sapiens,CHEMBL1119333,CCCCCCNC(=O)Oc1ccc2c(c1)C1CCN(CCC)C1C2,6.26,1
+Cl.Cl.Cl.Cl.O=C(NCCCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2)c1ccc2nc(-c3ccc(Cl)cc3)c3c(c2c1)OCCC3,IC50,=,18.3,nM,7.74,B,Homo sapiens,CHEMBL1051649,Cl.Cl.Cl.Cl.O=C(NCCCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2)c1ccc2nc(-c3ccc(Cl)cc3)c3c(c2c1)OCCC3,7.74,1
+CCN(CC)CCCOc1ccc(C(=O)c2ccc(CN(C)Cc3ccccc3)cc2)cc1,IC50,=,25.0,nM,7.6,B,Homo sapiens,CHEMBL1775596,CCN(CC)CCCOc1ccc(C(=O)c2ccc(CN(C)Cc3ccccc3)cc2)cc1,7.6,1
+c1ccc(-c2ccc(NCCCN3CCc4ccccc4C3)nn2)cc1,IC50,=,35000.0,nM,4.46,B,Homo sapiens,CHEMBL1119333,c1ccc(-c2ccc(NCCCN3CCc4ccccc4C3)nn2)cc1,4.46,0
+CN1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,IC50,=,4500.0,nM,5.35,B,Homo sapiens,CHEMBL636834,CN1CCN(Cc2ccc(CNCCN3CCNC3=C(C#N)C#N)o2)CC1,5.35,0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,IC50,=,40.0,nM,7.4,B,Homo sapiens,CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCCCCCCCCN4CCOCC4)ccc3N(C)[C@@H]12,7.4,1
+CCCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2,IC50,=,13.0,nM,7.89,B,Homo sapiens,CHEMBL644101,CCCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2,7.89,1
+Nc1c2c(nc3c1CCC3)CCCC2,IC50,=,658.0,nM,6.18,B,Homo sapiens,CHEMBL644109,Nc1c2c(nc3c1CCC3)CCCC2,6.18,1
+CN(CCOCCNC(=S)NC(=O)c1ccc2c(c1)C(=O)c1ccccc1C2=O)Cc1ccccc1,IC50,=,6.0,nM,8.22,B,Homo sapiens,CHEMBL1119333,CN(CCOCCNC(=S)NC(=O)c1ccc2c(c1)C(=O)c1ccccc1C2=O)Cc1ccccc1,8.22,1
+O=C(NCCC1CCN(Cc2ccccc2)CC1)c1ccccc1,IC50,=,560.0,nM,6.25,B,Homo sapiens,CHEMBL1119333,O=C(NCCC1CCN(Cc2ccccc2)CC1)c1ccccc1,6.25,1
+COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2)CN(C)C12C(=O)Nc1ccccc12,IC50,=,3120.0,nM,5.51,B,Homo sapiens,CHEMBL1293120,COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2)CN(C)C12C(=O)Nc1ccccc12,5.51,0
+Clc1ccccc1CNc1ccnc(NC2CCN(Cc3ccccc3)CC2)n1,IC50,=,7700.0,nM,5.11,B,Homo sapiens,CHEMBL2050824,Clc1ccccc1CNc1ccnc(NC2CCN(Cc3ccccc3)CC2)n1,5.11,0
+C/C=C1\[C@H]2C=C(C)C[C@]1(/N=C/C(C)=C/c1ccccc1)c1ccc(=O)[nH]c1C2,IC50,=,25.0,nM,7.6,B,Homo sapiens,CHEMBL1065425,C/C=C1\[C@H]2C=C(C)C[C@]1(/N=C/C(C)=C/c1ccccc1)c1ccc(=O)[nH]c1C2,7.6,1
+Nc1c2c(nc3cc(Cl)ccc13)C1CCC2C1,IC50,=,4.5,nM,8.35,B,Homo sapiens,CHEMBL644838,Nc1c2c(nc3cc(Cl)ccc13)C1CCC2C1,8.35,1
+Cc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,IC50,=,140.0,nM,6.85,B,Homo sapiens,CHEMBL644628,Cc1ccc(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)cc1,6.85,1
+Clc1cccc(CNc2ccnc(NC3CCN(Cc4ccccc4)CC3)n2)c1,IC50,=,7700.0,nM,5.11,B,Homo sapiens,CHEMBL2050824,Clc1cccc(CNc2ccnc(NC3CCN(Cc4ccccc4)CC3)n2)c1,5.11,0
+CNC(=O)Oc1cccc(CN(C)CCCCCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,IC50,=,21.8,nM,7.66,B,Homo sapiens,CHEMBL644104,CNC(=O)Oc1cccc(CN(C)CCCCCCCCCCOc2ccc3c(=O)c4ccccc4oc3c2)c1.Cl,7.66,1
+CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,IC50,=,1400.0,nM,5.85,B,Homo sapiens,CHEMBL643384,CSc1nc(-c2ccc(Cl)cc2)nn1C(=O)N(C)c1ccccc1,5.85,0
+C#CCC(CCC)OC[n+]1ccn(C)c1/C=N/O.[Cl-],IC50,=,5210.0,nM,5.28,B,Homo sapiens,CHEMBL644118,C#CCC(CCC)OC[n+]1ccn(C)c1/C=N/O.[Cl-],5.28,0
+CCN(CCCCCC(=O)N1Cc2ccc3c4c(ccc(c24)C1)CN(C(=O)CCCCCN(CC)Cc1ccccc1OC)C3)Cc1ccccc1OC,IC50,=,4.83,nM,8.32,B,Homo sapiens,CHEMBL948464,CCN(CCCCCC(=O)N1Cc2ccc3c4c(ccc(c24)C1)CN(C(=O)CCCCCN(CC)Cc1ccccc1OC)C3)Cc1ccccc1OC,8.32,1
+C[N+]1(Cc2ccccc2)CCC(CCC(=O)c2ccc3c(c2)CCO3)CC1,IC50,=,17.0,nM,7.77,B,Homo sapiens,CHEMBL644119,C[N+]1(Cc2ccccc2)CCC(CCC(=O)c2ccc3c(c2)CCO3)CC1,7.77,1
+CCCCCCNC(=O)Oc1cccc(CN(C)CCCOc2ccc3c(=O)c4cccnc4oc3c2)c1,IC50,=,42.0,nM,7.38,B,Homo sapiens,CHEMBL1119333,CCCCCCNC(=O)Oc1cccc(CN(C)CCCOc2ccc3c(=O)c4cccnc4oc3c2)c1,7.38,1
+COc1ccc2[nH]c3c(C)[n+](C)ccc3c2c1,IC50,=,800.0,nM,6.1,B,Homo sapiens,CHEMBL911302,COc1ccc2[nH]c3c(C)[n+](C)ccc3c2c1,6.1,1
+CN(CCCCCNc1ccc(-c2ccccc2)nn1)Cc1ccccc1.Cl,IC50,=,930.0,nM,6.03,B,Homo sapiens,CHEMBL644627,CN(CCCCCNc1ccc(-c2ccccc2)nn1)Cc1ccccc1.Cl,6.03,1
+CCN(C)C(=O)Oc1ccc2c(c1)CC(N)CC2,IC50,=,79600.0,nM,4.1,B,Homo sapiens,CHEMBL640425,CCN(C)C(=O)Oc1ccc2c(c1)CC(N)CC2,4.1,0
+CCOC(=O)C1=C(C)Nc2nc3c(c(N)c2C1c1cccc(OC)c1)CCCC3,IC50,=,58.0,nM,7.24,B,Homo sapiens,CHEMBL913362,CCOC(=O)C1=C(C)Nc2nc3c(c(N)c2C1c1cccc(OC)c1)CCCC3,7.24,1
+CCN(CCCCCCNc1ccc(NCCCCCCN(CC)Cc2ccccc2OC)cc1)Cc1ccccc1OC,IC50,=,42.5,nM,7.37,B,Homo sapiens,CHEMBL895407,CCN(CCCCCCNc1ccc(NCCCCCCN(CC)Cc2ccccc2OC)cc1)Cc1ccccc1OC,7.37,1
+CC(C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)CCCN6C(=O)c7ccccc7C6=O)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CS1,IC50,=,14.0,nM,7.85,B,Homo sapiens,CHEMBL1785400,CC(C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)CCCN6C(=O)c7ccccc7C6=O)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CS1,7.85,1
+COc1cc2cc(C(=O)CCc3cc[n+](CC4CCC4)cc3)sc2cc1OC.[Br-],IC50,=,40.0,nM,7.4,B,Homo sapiens,CHEMBL644831,COc1cc2cc(C(=O)CCc3cc[n+](CC4CCC4)cc3)sc2cc1OC.[Br-],7.4,1
+Cn1cc[n+](COC[n+]2ccn(C)c2/C=N/O)c1/C=N/O,IC50,=,7800.0,nM,5.11,B,Homo sapiens,CHEMBL644116,Cn1cc[n+](COC[n+]2ccn(C)c2/C=N/O)c1/C=N/O,5.11,0
+CC(C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CN1,IC50,=,3108.0,nM,5.51,B,Homo sapiens,CHEMBL900444,CC(C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CN1,5.51,0
+COc1cc(CNCCCNC2=CC(=O)C(NCCCNCc3ccc(O)c(OC)c3)=CC2=O)ccc1O,IC50,=,198.0,nM,6.7,B,Homo sapiens,CHEMBL1771988,COc1cc(CNCCCNC2=CC(=O)C(NCCCNCc3ccc(O)c(OC)c3)=CC2=O)ccc1O,6.7,1
+CC(=O)Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,IC50,=,2.799,nM,8.55,B,Homo sapiens,CHEMBL641020,CC(=O)Nc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,8.55,1
+CCN(CC)CCCCOc1ccc2c(c1)C(=O)/C(=C/c1ccc(CN(C)Cc3ccccc3)cc1)C2,IC50,=,890.0,nM,6.05,B,Homo sapiens,CHEMBL1067130,CCN(CC)CCCCOc1ccc2c(c1)C(=O)/C(=C/c1ccc(CN(C)Cc3ccccc3)cc1)C2,6.05,1
+Cn1cc[n+](COCC2CCCc3ccccc32)c1/C=N/O.[Cl-],IC50,=,56000.0,nM,4.25,B,Homo sapiens,CHEMBL644116,Cn1cc[n+](COCC2CCCc3ccccc32)c1/C=N/O.[Cl-],4.25,0
+CCCCC1=NC2(CCCC2)C(=O)N1Cc1cc2c(cc1C)OCO2,IC50,=,231.5,nM,6.63,B,Homo sapiens,CHEMBL899128,CCCCC1=NC2(CCCC2)C(=O)N1Cc1cc2c(cc1C)OCO2,6.63,1
+CCN1CC[C@@]2(C)c3cc(OC(=O)NC(C)(C)C)ccc3C[C@@H]12,IC50,=,12487.0,nM,4.9,B,Homo sapiens,CHEMBL1119333,CCN1CC[C@@]2(C)c3cc(OC(=O)NC(C)(C)C)ccc3C[C@@H]12,4.9,0
+O=C1/C(=C/c2ccc[nH]2)CN(Cc2ccccc2)C/C1=C\c1ccc[nH]1,IC50,=,18000.0,nM,4.75,B,Homo sapiens,CHEMBL875241,O=C1/C(=C/c2ccc[nH]2)CN(Cc2ccccc2)C/C1=C\c1ccc[nH]1,4.75,0
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCCCc1cc(OC)c2oc(-c3ccc4c(c3)OCO4)cc2c1,IC50,=,1700.0,nM,5.77,B,Homo sapiens,CHEMBL1840095,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCCCc1cc(OC)c2oc(-c3ccc4c(c3)OCO4)cc2c1,5.77,0
+CCN(CCCCCCN1C(=O)c2cccc3cccc(c23)C1=O)Cc1ccccc1OC,IC50,=,53.5,nM,7.27,B,Homo sapiens,CHEMBL948464,CCN(CCCCCCN1C(=O)c2cccc3cccc(c23)C1=O)Cc1ccccc1OC,7.27,1
+COc1ccccc1CN(C)Cc1ccc(C(=O)c2ccc(OC)c(OC)c2)cc1,IC50,=,3710.0,nM,5.43,B,Homo sapiens,CHEMBL1019313,COc1ccccc1CN(C)Cc1ccc(C(=O)c2ccc(OC)c(OC)c2)cc1,5.43,0
+CN(Cc1ccccc1)Cc1ccc(C(=O)c2ccc(OCCCCCCN3CCCCC3)cc2)cc1,IC50,=,210.0,nM,6.68,B,Homo sapiens,CHEMBL1775596,CN(Cc1ccccc1)Cc1ccc(C(=O)c2ccc(OCCCCCCN3CCCCC3)cc2)cc1,6.68,1
+O=C(c1c2ccccc2cc2ccccc12)N1c2ccccc2Sc2ccccc21,Ki,=,3.5,nM,8.46,B,Homo sapiens,CHEMBL1787068,O=C(c1c2ccccc2cc2ccccc12)N1c2ccccc2Sc2ccccc21,8.46,1
+C#CCNC1CCc2c(OC(=O)N(C)C)cccc21.Cl,IC50,=,53.0,nM,7.28,B,Homo sapiens,CHEMBL645009,C#CCNC1CCc2c(OC(=O)N(C)C)cccc21.Cl,7.28,1
+Cl.Cl.c1ccc(CN2CCC(CCNc3ccc(-c4ccccc4)nn3)CC2)cc1,IC50,=,140.0,nM,6.85,B,Homo sapiens,CHEMBL644839,Cl.Cl.c1ccc(CN2CCC(CCNc3ccc(-c4ccccc4)nn3)CC2)cc1,6.85,1
+O=C(CCCCC1CCSS1)NCCCCCCNc1c2c(nc3ccccc13)CCCC2,IC50,=,30.1,nM,7.52,B,Homo sapiens,CHEMBL832842,O=C(CCCCC1CCSS1)NCCCCCCNc1c2c(nc3ccccc13)CCCC2,7.52,1
+CC1=CC2Cc3nc4cc(Cl)ccc4c(NCCCCCCCNc4c5c(nc6cc(Cl)ccc46)CCCC5)c3C(C1)C2.Cl.Cl,IC50,=,0.33,nM,9.48,B,Homo sapiens,CHEMBL828047,CC1=CC2Cc3nc4cc(Cl)ccc4c(NCCCCCCCNc4c5c(nc6cc(Cl)ccc46)CCCC5)c3C(C1)C2.Cl.Cl,9.48,1
+Nc1c2c(nc3ccccc13)CCCCCC2,IC50,=,9100.0,nM,5.04,B,Homo sapiens,CHEMBL1119333,Nc1c2c(nc3ccccc13)CCCCCC2,5.04,0
+C[C@H](CCC(=O)O)[C@H]1CC(=O)[C@@]2(C)C3=C(C(=O)C[C@]12C)[C@@]1(C)CC[C@H](O)C(C)(C)[C@@H]1C[C@@H]3O,IC50,=,25910.0,nM,4.59,B,Homo sapiens,CHEMBL1918466,C[C@H](CCC(=O)O)[C@H]1CC(=O)[C@@]2(C)C3=C(C(=O)C[C@]12C)[C@@]1(C)CC[C@H](O)C(C)(C)[C@@H]1C[C@@H]3O,4.59,0
+CCN(Cc1ccccc1)Cc1ccc(-c2cc3ccc(OCCNC(=O)/C=C/c4ccc(Cl)c(Cl)c4)cc3oc2=O)cc1,IC50,=,4230.0,nM,5.37,B,Homo sapiens,CHEMBL929818,CCN(Cc1ccccc1)Cc1ccc(-c2cc3ccc(OCCNC(=O)/C=C/c4ccc(Cl)c(Cl)c4)cc3oc2=O)cc1,5.37,0
+CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3c(c2)C/C(=C\c2cc(O)c(O)c(O)c2)C3=O)c1,IC50,=,1.8,nM,8.74,B,Homo sapiens,CHEMBL1119333,CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3c(c2)C/C(=C\c2cc(O)c(O)c(O)c2)C3=O)c1,8.74,1
+Cl.O=C(NCCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2)c1cc(=O)c2c(O)cc(O)cc2o1,IC50,=,2.3,nM,8.64,B,Homo sapiens,CHEMBL2020732,Cl.O=C(NCCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2)c1cc(=O)c2c(O)cc(O)cc2o1,8.64,1
+CC1=C(C)c2nc3ccccc3c(N)c2C1,IC50,=,3500.0,nM,5.46,B,Homo sapiens,CHEMBL1119333,CC1=C(C)c2nc3ccccc3c(N)c2C1,5.46,0
+c1cc(OCCCN2CCCCC2)ccc1CN1CCCCC1,IC50,=,3200.0,nM,5.5,B,Homo sapiens,CHEMBL940221,c1cc(OCCCN2CCCCC2)ccc1CN1CCCCC1,5.5,0
+CN(C)C(=O)Oc1ccc2c(c1)C(N(C)C)CC2.Cl,IC50,=,2150.0,nM,5.67,B,Homo sapiens,CHEMBL636789,CN(C)C(=O)Oc1ccc2c(c1)C(N(C)C)CC2.Cl,5.67,0
+Cc1cn2cc(C(N)=O)ccc2[n+]1C.[I-],IC50,=,27000.0,nM,4.57,B,Homo sapiens,CHEMBL1119333,Cc1cn2cc(C(N)=O)ccc2[n+]1C.[I-],4.57,0
+Cl.Cl.Oc1c(CNCCCCCCCCCNc2c3c(nc4ccccc24)CCCC3)ccc2cccnc12,IC50,=,5.5,nM,8.26,B,Homo sapiens,CHEMBL1177574,Cl.Cl.Oc1c(CNCCCCCCCCCNc2c3c(nc4ccccc24)CCCC3)ccc2cccnc12,8.26,1
+COc1cc(C(=O)NCC(=O)NNc2c3c(nc4ccccc24)CCCC3)cc(OC)c1OC,IC50,=,51.6,nM,7.29,B,Homo sapiens,CHEMBL912241,COc1cc(C(=O)NCC(=O)NNc2c3c(nc4ccccc24)CCCC3)cc(OC)c1OC,7.29,1
+CCN(CC)CCS/C(=N\O)c1nc(Cc2ccccc2)no1,IC50,=,30000.0,nM,4.52,B,Homo sapiens,CHEMBL644111,CCN(CC)CCS/C(=N\O)c1nc(Cc2ccccc2)no1,4.52,0
+CC1=CC2Cc3nc4cc(Cl)ccc4c(NC(=O)CCl)c3C(C1)C2,IC50,=,2510.0,nM,5.6,B,Homo sapiens,CHEMBL1041236,CC1=CC2Cc3nc4cc(Cl)ccc4c(NC(=O)CCl)c3C(C1)C2,5.6,0
+O=C(CCC1CCN(Cc2ccccc2Cl)CC1)c1ccc2c(c1)CCN2,IC50,=,76.0,nM,7.12,B,Homo sapiens,CHEMBL1119333,O=C(CCC1CCN(Cc2ccccc2Cl)CC1)c1ccc2c(c1)CCN2,7.12,1
+Cl.O=C(CCC1CCN(Cc2ccccc2)CC1)c1ccc2[nH]c(-c3ccccc3)nc2c1,IC50,=,33.0,nM,7.48,B,Homo sapiens,CHEMBL885303,Cl.O=C(CCC1CCN(Cc2ccccc2)CC1)c1ccc2[nH]c(-c3ccccc3)nc2c1,7.48,1
+CC(C)C1=N[C@H]2CC=C3CC4C(=O)C[C@]5(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]5(C)[C@@H]4CC[C@H]3[C@]2(C)CO1,IC50,=,299.0,nM,6.52,B,Homo sapiens,CHEMBL900444,CC(C)C1=N[C@H]2CC=C3CC4C(=O)C[C@]5(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]5(C)[C@@H]4CC[C@H]3[C@]2(C)CO1,6.52,1
+Cc1ccc(S(=O)(=O)N2[C@H](C)CCC[C@@H]2C)cc1,IC50,=,368.0,nM,6.43,B,Homo sapiens,CHEMBL1049243,Cc1ccc(S(=O)(=O)N2[C@H](C)CCC[C@@H]2C)cc1,6.43,1
+N#Cc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,IC50,=,100.93,nM,7.0,B,Homo sapiens,CHEMBL641020,N#Cc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,7.0,1
+COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2Cl)C(c2ccccc2)NC12C(=O)Nc1ccccc12,IC50,=,7300.0,nM,5.14,B,Homo sapiens,CHEMBL1293120,COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2Cl)C(c2ccccc2)NC12C(=O)Nc1ccccc12,5.14,0
+CCCCCCNC(=O)Oc1cccc(CN(C)CCCOc2ccc3c(=O)cc(-c4ccccc4)oc3c2)c1,IC50,=,68.0,nM,7.17,B,Homo sapiens,CHEMBL1119333,CCCCCCNC(=O)Oc1cccc(CN(C)CCCOc2ccc3c(=O)cc(-c4ccccc4)oc3c2)c1,7.17,1
+CCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C,IC50,=,94.0,nM,7.03,B,Homo sapiens,CHEMBL874440,CCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2C,7.03,1
+COc1ccc2c(c1)C(=O)N(CCC1CCN(Cc3ccccc3)CC1)C2=O,IC50,=,8.0,nM,8.1,B,Homo sapiens,CHEMBL1119333,COc1ccc2c(c1)C(=O)N(CCC1CCN(Cc3ccccc3)CC1)C2=O,8.1,1
+CCC1=CC2Cc3nc4cnccc4c(N)c3C(C1)C2,IC50,=,664.0,nM,6.18,B,Homo sapiens,CHEMBL1041236,CCC1=CC2Cc3nc4cnccc4c(N)c3C(C1)C2,6.18,1
+CN1CCC(C[C@H]2Cc3ccccc3C2=O)CC1,IC50,=,7.7,nM,8.11,B,Homo sapiens,CHEMBL643386,CN1CCC(C[C@H]2Cc3ccccc3C2=O)CC1,8.11,1
+Oc1cccc(C2=Nc3ccccc3SC(c3ccc(Cl)cc3)C2)c1,IC50,=,18800.0,nM,4.73,B,Homo sapiens,CHEMBL978158,Oc1cccc(C2=Nc3ccccc3SC(c3ccc(Cl)cc3)C2)c1,4.73,0
+COc1ccc2[nH]cc(CCNC(=O)CCCCCCNc3c4c(nc5cc(Cl)cc(Cl)c35)CCCC4)c2c1,IC50,=,0.04,nM,10.4,B,Homo sapiens,CHEMBL864026,COc1ccc2[nH]cc(CCNC(=O)CCCCCCNc3c4c(nc5cc(Cl)cc(Cl)c35)CCCC4)c2c1,10.4,1
+C#CCCCC[n+]1ccccc1/C=N/O.[Cl-],IC50,=,61500.0,nM,4.21,B,Homo sapiens,CHEMBL644117,C#CCCCC[n+]1ccccc1/C=N/O.[Cl-],4.21,0
+O=[N+]([O-])OCCCNCCCNc1c2c(nc3ccccc13)CCCC2,IC50,=,6.4,nM,8.19,B,Homo sapiens,CHEMBL932016,O=[N+]([O-])OCCCNCCCNc1c2c(nc3ccccc13)CCCC2,8.19,1
+C/C(=C\C(=O)N(C)[C@H]1CC[C@@]2(C)[C@@H](CC[C@@H]3[C@@H]2CC[C@]2(C)[C@@H]([C@H](C)N(C)C)CC[C@@H]32)C1)C(C)C,IC50,=,6456.54,nM,5.19,B,Homo sapiens,CHEMBL641237,C/C(=C\C(=O)N(C)[C@H]1CC[C@@]2(C)[C@@H](CC[C@@H]3[C@@H]2CC[C@]2(C)[C@@H]([C@H](C)N(C)C)CC[C@@H]32)C1)C(C)C,5.19,0
+Brc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,IC50,=,50.0,nM,7.3,B,Homo sapiens,CHEMBL641020,Brc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,7.3,1
+CCc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CC[N@@+](C)([O-])[C@@H]1N2C.Cl,IC50,=,125.0,nM,6.9,B,Homo sapiens,CHEMBL644832,CCc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CC[N@@+](C)([O-])[C@@H]1N2C.Cl,6.9,1
+[Br-].[Br-].c1cc[n+](CCCCCCCCCCC[n+]2ccccc2)cc1,IC50,=,700.0,nM,6.16,B,Homo sapiens,CHEMBL1100708,[Br-].[Br-].c1cc[n+](CCCCCCCCCCC[n+]2ccccc2)cc1,6.16,1
+COc1cc2c(cc1OC)CC(CC1CCN(CCCNc3c4c(nc5cc(Cl)ccc35)CCCC4)CC1)C2.Cl.Cl.Cl,IC50,=,1.06,nM,8.97,B,Homo sapiens,CHEMBL960589,COc1cc2c(cc1OC)CC(CC1CCN(CCCNc3c4c(nc5cc(Cl)ccc35)CCCC4)CC1)C2.Cl.Cl.Cl,8.97,1
+CN(CCCCCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1ccccc1,IC50,=,2890.0,nM,5.54,B,Homo sapiens,CHEMBL915960,CN(CCCCCCOc1ccc2c(=O)c3ccccc3oc2c1)Cc1ccccc1,5.54,0
+O=C(CCC1CCN(Cc2ccc(F)cc2)CC1)c1ccc2c(c1)CCN2,IC50,=,89.0,nM,7.05,B,Homo sapiens,CHEMBL1119333,O=C(CCC1CCN(Cc2ccc(F)cc2)CC1)c1ccc2c(c1)CCN2,7.05,1
+CN(C)Cc1ccc(CSCCCCCCCSCc2ccc(CN(C)C)o2)o1,IC50,=,610.0,nM,6.21,B,Homo sapiens,CHEMBL644790,CN(C)Cc1ccc(CSCCCCCCCSCc2ccc(CN(C)C)o2)o1,6.21,1
+[Br-].[Br-].c1ccc(C[n+]2cccc3ccccc32)c(C[n+]2cccc3ccccc32)c1,IC50,=,35000.0,nM,4.46,B,Homo sapiens,CHEMBL1763498,[Br-].[Br-].c1ccc(C[n+]2cccc3ccccc32)c(C[n+]2cccc3ccccc32)c1,4.46,0
+C/C=C(\C)C(=O)N[C@H]1C(OC(C)=O)C[C@@]2(C)C(CC[C@H]3C4CC=C([C@H](C)N(C)C)[C@@]4(C)CC[C@@H]32)[C@H]1OC(C)=O,IC50,=,50118.72,nM,4.3,B,Homo sapiens,CHEMBL641237,C/C=C(\C)C(=O)N[C@H]1C(OC(C)=O)C[C@@]2(C)C(CC[C@H]3C4CC=C([C@H](C)N(C)C)[C@@]4(C)CC[C@@H]32)[C@H]1OC(C)=O,4.3,0
+CC[C@H](C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CN1,IC50,=,4368.0,nM,5.36,B,Homo sapiens,CHEMBL900444,CC[C@H](C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)C)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CN1,5.36,0
+CNC(NCCNCc1ccc(CN2CCCC2)o1)=C(C#N)C#N,IC50,=,280.0,nM,6.55,B,Homo sapiens,CHEMBL636834,CNC(NCCNCc1ccc(CN2CCCC2)o1)=C(C#N)C#N,6.55,1
+C[C@@H]1CCC[C@H](C)N1S(C)(=O)=O,IC50,=,75.0,nM,7.12,B,Homo sapiens,CHEMBL1049243,C[C@@H]1CCC[C@H](C)N1S(C)(=O)=O,7.12,1
+C[C@@H]([C@H]1[C@H](O)C[C@@]2(C)[C@@H]3CC[C@@H]4C(=CC[C@@H]5N=C(C(C)(C)C)OC[C@]54C)C[C@H]3C(=O)C[C@]12C)N(C)C,IC50,=,351.0,nM,6.46,B,Homo sapiens,CHEMBL900444,C[C@@H]([C@H]1[C@H](O)C[C@@]2(C)[C@@H]3CC[C@@H]4C(=CC[C@@H]5N=C(C(C)(C)C)OC[C@]54C)C[C@H]3C(=O)C[C@]12C)N(C)C,6.46,1
+CCN1CCCC1CNc1ccc(-c2ccccc2)nn1,IC50,=,62000.0,nM,4.21,B,Homo sapiens,CHEMBL1119333,CCN1CCCC1CNc1ccc(-c2ccccc2)nn1,4.21,0
+CCCNc1cc(NCCSCc2ccc(CN(C)C)o2)c([N+](=O)[O-])cc1[N+](=O)[O-],IC50,=,260.0,nM,6.58,B,Homo sapiens,CHEMBL644833,CCCNc1cc(NCCSCc2ccc(CN(C)C)o2)c([N+](=O)[O-])cc1[N+](=O)[O-],6.58,1
+C/N=C1/CCc2c1n(C)c1cc(Cl)c(OC(=O)NC)cc21,IC50,=,670.0,nM,6.17,B,Homo sapiens,CHEMBL643373,C/N=C1/CCc2c1n(C)c1cc(Cl)c(OC(=O)NC)cc21,6.17,1
+CCCC/N=C(/C=N/O)N(C)C.Cl,IC50,=,54000.0,nM,4.27,B,Homo sapiens,CHEMBL1954098,CCCC/N=C(/C=N/O)N(C)C.Cl,4.27,0
+COc1ccc(CN2CCC(CCC(=O)c3ccc4c(c3)CCN4)CC2)cc1,IC50,=,13300.0,nM,4.88,B,Homo sapiens,CHEMBL1119333,COc1ccc(CN2CCC(CCC(=O)c3ccc4c(c3)CCN4)CC2)cc1,4.88,0
+Oc1cccc(C2=Nc3ccccc3SC(c3ccccc3F)C2)c1,IC50,=,70600.0,nM,4.15,B,Homo sapiens,CHEMBL978158,Oc1cccc(C2=Nc3ccccc3SC(c3ccccc3F)C2)c1,4.15,0
+O=C(CCC1CCN(Cc2ccccc2)CC1)c1ccc2c(c1)N(Cc1ccccc1)CC2,IC50,=,853.0,nM,6.07,B,Homo sapiens,CHEMBL1119333,O=C(CCC1CCN(Cc2ccccc2)CC1)c1ccc2c(c1)N(Cc1ccccc1)CC2,6.07,1
+CCCCNC(=O)Oc1ccc2c(c1Br)c1c(n2C)/C(=N\C)CC1,IC50,=,3170.0,nM,5.5,B,Homo sapiens,CHEMBL643373,CCCCNC(=O)Oc1ccc2c(c1Br)c1c(n2C)/C(=N\C)CC1,5.5,0
+CNC(=O)Oc1ccc2c(c1)CC[C@@H]1CCN(C)[C@H]21,IC50,=,17.3,nM,7.76,B,Homo sapiens,CHEMBL1249049,CNC(=O)Oc1ccc2c(c1)CC[C@@H]1CCN(C)[C@H]21,7.76,1
+CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.COS(=O)(=O)[O-],IC50,=,42.1,nM,7.38,B,Homo sapiens,CHEMBL868603,CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.COS(=O)(=O)[O-],7.38,1
+C#CCNC1CCc2ccc(OC(=O)N(C)c3ccccc3)cc21.Cl,IC50,=,550.0,nM,6.26,B,Homo sapiens,CHEMBL645888,C#CCNC1CCc2ccc(OC(=O)N(C)c3ccccc3)cc21.Cl,6.26,1
+CCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCO[C@@H]1O2,IC50,=,100.0,nM,7.0,B,Homo sapiens,CHEMBL859798,CCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCO[C@@H]1O2,7.0,1
+CC(C)N1CCN(c2nccc(NCc3ccccc3)n2)CC1,IC50,=,25000.0,nM,4.6,B,Homo sapiens,CHEMBL1769750,CC(C)N1CCN(c2nccc(NCc3ccccc3)n2)CC1,4.6,0
+Cc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2,IC50,=,40.0,nM,7.4,B,Homo sapiens,CHEMBL644927,Cc1ccccc1NC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2,7.4,1
+CN(C)Cc1ccc(CSCCNc2cc(NCc3ccccn3)c([N+](=O)[O-])cc2[N+](=O)[O-])o1,IC50,=,1300.0,nM,5.89,B,Homo sapiens,CHEMBL644833,CN(C)Cc1ccc(CSCCNc2cc(NCc3ccccn3)c([N+](=O)[O-])cc2[N+](=O)[O-])o1,5.89,0
+Cc1c(Cl)nc2ccccc2c1C(=O)NCCCCCCCNc1c2c(nc3ccccc13)CCCC2,IC50,=,3.0,nM,8.52,B,Homo sapiens,CHEMBL832710,Cc1c(Cl)nc2ccccc2c1C(=O)NCCCCCCCNc1c2c(nc3ccccc13)CCCC2,8.52,1
+COc1ccc2nc3c(c(N)c2c1)CCCC3,IC50,=,15000.0,nM,4.82,B,Homo sapiens,CHEMBL1260200,COc1ccc2nc3c(c(N)c2c1)CCCC3,4.82,0
+C[C@]12CCNC1Nc1ccc(OC(=O)Nc3ccccc3)cc12,IC50,=,231.0,nM,6.64,B,Homo sapiens,CHEMBL644099,C[C@]12CCNC1Nc1ccc(OC(=O)Nc3ccccc3)cc12,6.64,1
+CCN(CCCCCCNC1=CC(=O)C(NCCCCCCN(CC)Cc2ccccc2C)=CC1=O)Cc1ccccc1C,IC50,=,71.9,nM,7.14,B,Homo sapiens,CHEMBL895407,CCN(CCCCCCNC1=CC(=O)C(NCCCCCCN(CC)Cc2ccccc2C)=CC1=O)Cc1ccccc1C,7.14,1
+COC1=CC(=O)C(N2CCC(C3CCN(Cc4ccccc4OC)CC3)CC2)=CC1=O,IC50,=,24400.0,nM,4.61,B,Homo sapiens,CHEMBL1941523,COC1=CC(=O)C(N2CCC(C3CCN(Cc4ccccc4OC)CC3)CC2)=CC1=O,4.61,0
+COc1ccccc1NCc1cc(=O)oc2cc3oc4ccccc4c3cc12,IC50,=,190.0,nM,6.72,B,Homo sapiens,CHEMBL1942987,COc1ccccc1NCc1cc(=O)oc2cc3oc4ccccc4c3cc12,6.72,1
+CCOC(=O)C1=C(C)Nc2nc3c(c(N)c2C1c1ccccc1C(F)(F)F)CCCC3,IC50,=,226.0,nM,6.65,B,Homo sapiens,CHEMBL1003711,CCOC(=O)C1=C(C)Nc2nc3c(c(N)c2C1c1ccccc1C(F)(F)F)CCCC3,6.65,1
+CC(C)C1=N[C@H]2CC=C3C[C@H]4C(=O)C[C@]5(C)[C@@H]([C@H](C)N(C)C)[C@H](OC(=O)C(C)(C)C)C[C@@]5(C)[C@@H]4CC[C@H]3[C@]2(C)CO1,IC50,=,839.0,nM,6.08,B,Homo sapiens,CHEMBL900444,CC(C)C1=N[C@H]2CC=C3C[C@H]4C(=O)C[C@]5(C)[C@@H]([C@H](C)N(C)C)[C@H](OC(=O)C(C)(C)C)C[C@@]5(C)[C@@H]4CC[C@H]3[C@]2(C)CO1,6.08,1
+CN(CCOCCNC(=S)Nc1ccccn1)Cc1ccccc1,IC50,=,4000.0,nM,5.4,B,Homo sapiens,CHEMBL1119333,CN(CCOCCNC(=S)Nc1ccccn1)Cc1ccccc1,5.4,0
+CN1CC[C@@]2(C)c3cc(OC(=O)NCCCN4CCOCC4)ccc3N(C)[C@@H]12,IC50,=,3800.0,nM,5.42,B,Homo sapiens,CHEMBL645001,CN1CC[C@@]2(C)c3cc(OC(=O)NCCCN4CCOCC4)ccc3N(C)[C@@H]12,5.42,0
+CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3c(c2)OC/C(=C\c2cc(OC)c(OC)c(OC)c2)C3=O)c1,IC50,=,9810.0,nM,5.01,B,Homo sapiens,CHEMBL832454,CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3c(c2)OC/C(=C\c2cc(OC)c(OC)c(OC)c2)C3=O)c1,5.01,0
+CCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)[C@@H]1C2,IC50,=,90.0,nM,7.05,B,Homo sapiens,CHEMBL1119333,CCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)[C@@H]1C2,7.05,1
+Cc1ccc2c(N)c3c(nc2c1)CCCC3,IC50,=,100.0,nM,7.0,B,Homo sapiens,CHEMBL644101,Cc1ccc2c(N)c3c(nc2c1)CCCC3,7.0,1
+C#CCCOC[n+]1ccn(C)c1C.[Cl-],IC50,=,27000.0,nM,4.57,B,Homo sapiens,CHEMBL644118,C#CCCOC[n+]1ccn(C)c1C.[Cl-],4.57,0
+COc1ccc(C(=O)n2cc(/C=C3\CN(Cc4ccccc4)CCC3=O)c3ccccc32)cc1,IC50,=,70000.0,nM,4.16,B,Homo sapiens,CHEMBL875241,COc1ccc(C(=O)n2cc(/C=C3\CN(Cc4ccccc4)CCC3=O)c3ccccc32)cc1,4.16,0
+Nc1c2c(nc3c(Cl)cccc13)CCCC2,IC50,=,68.9,nM,7.16,B,Homo sapiens,CHEMBL644838,Nc1c2c(nc3c(Cl)cccc13)CCCC2,7.16,1
+Oc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,IC50,=,26.0,nM,7.58,B,Homo sapiens,CHEMBL641020,Oc1ccc2c(CCC3CCN(Cc4ccccc4)CC3)noc2c1,7.58,1
+CC(=O)N(C)[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](N(C)C)CC[C@]4(C)[C@H]3CC[C@]12C,IC50,=,19952.62,nM,4.7,B,Homo sapiens,CHEMBL641237,CC(=O)N(C)[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](N(C)C)CC[C@]4(C)[C@H]3CC[C@]12C,4.7,0
+NCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2,IC50,=,131.0,nM,6.88,B,Homo sapiens,CHEMBL1119333,NCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2,6.88,1
+Cc1cc(C)c(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c(C)c1,IC50,=,1300.0,nM,5.89,B,Homo sapiens,CHEMBL644628,Cc1cc(C)c(NC(=O)Oc2ccc3c(c2)[C@]2(C)CCN(C)[C@@H]2N3C)c(C)c1,5.89,0
+CC(=O)Oc1cccc([N+](C)(C)C)c1,IC50,=,3013.01,nM,5.52,B,Homo sapiens,CHEMBL641238,CC(=O)Oc1cccc([N+](C)(C)C)c1,5.52,0
+O=C1C=C(NCCCNCc2cc3ccccc3o2)C(=O)C=C1NCCCNCc1cc2ccccc2o1,IC50,=,21800.0,nM,4.66,B,Homo sapiens,CHEMBL1771988,O=C1C=C(NCCCNCc2cc3ccccc3o2)C(=O)C=C1NCCCNCc1cc2ccccc2o1,4.66,0
+Cc1ccccc1NC(=O)Oc1ccc2c(c1)[C@@]1(C)CCN(C)[C@H]1N2C,IC50,=,5510.0,nM,5.26,B,Homo sapiens,CHEMBL859798,Cc1ccccc1NC(=O)Oc1ccc2c(c1)[C@@]1(C)CCN(C)[C@H]1N2C,5.26,0
+COc1cc2c(cc1OC)C(c1cccc([N+](=O)[O-])c1)N(CCCCCCc1cn(CCNc3c4c(nc5cc(Cl)ccc35)CC3C=C(C)CC4C3)nn1)CC2,IC50,=,3.95,nM,8.4,B,Homo sapiens,CHEMBL1041236,COc1cc2c(cc1OC)C(c1cccc([N+](=O)[O-])c1)N(CCCCCCc1cn(CCNc3c4c(nc5cc(Cl)ccc35)CC3C=C(C)CC4C3)nn1)CC2,8.4,1
+C/C=C(\C)C(=O)N[C@@H]1[C@H](O)C2CC[C@H]3C4=CC[C@H]([C@H](C)N(C)C)[C@@]4(C)CC[C@@H]3[C@@]2(C)C[C@@H]1O,IC50,=,33113.11,nM,4.48,B,Homo sapiens,CHEMBL641237,C/C=C(\C)C(=O)N[C@@H]1[C@H](O)C2CC[C@H]3C4=CC[C@H]([C@H](C)N(C)C)[C@@]4(C)CC[C@@H]3[C@@]2(C)C[C@@H]1O,4.48,0
+C[C@@H]([C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@@H](N(C)C)CC[C@]4(C)[C@H]3CC[C@]12C)N(C)C,IC50,=,22100.0,nM,4.66,B,Homo sapiens,CHEMBL998779,C[C@@H]([C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@@H](N(C)C)CC[C@]4(C)[C@H]3CC[C@]12C)N(C)C,4.66,0
+CC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)cc21,IC50,=,5680.0,nM,5.25,B,Homo sapiens,CHEMBL643373,CC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)cc21,5.25,0
+CCCOCCn1c(=O)nc(NC2CCC(O)CC2)c2nnc(-c3ccc(OC)nc3)cc21,IC50,=,5600.0,nM,5.25,B,Homo sapiens,CHEMBL1918028,CCCOCCn1c(=O)nc(NC2CCC(O)CC2)c2nnc(-c3ccc(OC)nc3)cc21,5.25,0
+C#CCNCCc1cccc(OC(=O)N(C)C)c1,IC50,=,220.0,nM,6.66,B,Homo sapiens,CHEMBL645013,C#CCNCCc1cccc(OC(=O)N(C)C)c1,6.66,1
+CCN1CC[C@@]2(C)c3cc(OC(=O)NC)ccc3CC12,IC50,=,38.0,nM,7.42,B,Homo sapiens,CHEMBL645003,CCN1CC[C@@]2(C)c3cc(OC(=O)NC)ccc3CC12,7.42,1
+COc1ccc(C(=O)COc2ccc([N+](C)(C)Cc3ccccc3)cc2)cc1OC.[Br-],IC50,=,10000.0,nM,5.0,B,Homo sapiens,CHEMBL645004,COc1ccc(C(=O)COc2ccc([N+](C)(C)Cc3ccccc3)cc2)cc1OC.[Br-],5.0,0
+[Br-].[Br-].c1ccc2c[n+](CCCCCCCCCCC[n+]3ccc4ccccc4c3)ccc2c1,IC50,=,100.0,nM,7.0,B,Homo sapiens,CHEMBL1671581,[Br-].[Br-].c1ccc2c[n+](CCCCCCCCCCC[n+]3ccc4ccccc4c3)ccc2c1,7.0,1
+CCC1=CC2Cc3nc4ccccc4c(N)c3C(C1)C2.Cl,IC50,=,37.8,nM,7.42,B,Homo sapiens,CHEMBL642883,CCC1=CC2Cc3nc4ccccc4c(N)c3C(C1)C2.Cl,7.42,1
+COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2Cl)C(c2ccccc2)NC12C(=O)Nc1ccc([N+](=O)[O-])cc12,IC50,=,4200.0,nM,5.38,B,Homo sapiens,CHEMBL1293120,COc1cc2c(cc1OC)C(=O)C1(C2)C(c2ccccc2Cl)C(c2ccccc2)NC12C(=O)Nc1ccc([N+](=O)[O-])cc12,5.38,0
+Cc1ccc2nc3c(c(N)c2c1)CCCC3,IC50,=,8100.0,nM,5.09,B,Homo sapiens,CHEMBL644101,Cc1ccc2nc3c(c(N)c2c1)CCCC3,5.09,0
+Cl.O/N=C/C1=NCCCN1Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1,IC50,=,45000.0,nM,4.35,B,Homo sapiens,CHEMBL1954098,Cl.O/N=C/C1=NCCCN1Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1,4.35,0
+COc1ccc2c3c([nH]c2c1)C(C)=NCC3,IC50,=,23700.0,nM,4.62,B,Homo sapiens,CHEMBL2020014,COc1ccc2c3c([nH]c2c1)C(C)=NCC3,4.62,0
+Cl.O=C(NCCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2)c1cc(=O)c2ccccc2o1,IC50,=,17.5,nM,7.76,B,Homo sapiens,CHEMBL2020732,Cl.O=C(NCCCCCCCCCCNc1c2c(nc3ccccc13)CCCC2)c1cc(=O)c2ccccc2o1,7.76,1
+CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@H]2O1,IC50,=,130.0,nM,6.89,B,Homo sapiens,CHEMBL644832,CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@H]2O1,6.89,1
+CCC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)cc21,IC50,=,3840.0,nM,5.42,B,Homo sapiens,CHEMBL643373,CCC/N=C1/CCc2c1n(C)c1ccc(OC(=O)NC)cc21,5.42,0
+O=C1Cc2cc3onc(CCC4CCN(Cc5ccccc5)CC4)c3cc2N1,IC50,=,0.95,nM,9.02,B,Homo sapiens,CHEMBL644837,O=C1Cc2cc3onc(CCC4CCN(Cc5ccccc5)CC4)c3cc2N1,9.02,1
+CC(C)N(CCNC(=O)N1c2ccccc2Sc2ccccc21)C(C)C,Ki,=,810.0,nM,6.09,B,Homo sapiens,CHEMBL1068998,CC(C)N(CCNC(=O)N1c2ccccc2Sc2ccccc21)C(C)C,6.09,1
+c1ccc(-c2ccc(NCCN3CCCCC3)nn2)cc1,IC50,=,13000.0,nM,4.89,B,Homo sapiens,CHEMBL1119333,c1ccc(-c2ccc(NCCN3CCCCC3)nn2)cc1,4.89,0
+COc1cc(CCC(=O)NCCC(=O)NNc2c3c(nc4ccccc24)CCCC3)cc(OC)c1OC,IC50,=,135.0,nM,6.87,B,Homo sapiens,CHEMBL912241,COc1cc(CCC(=O)NCCC(=O)NNc2c3c(nc4ccccc24)CCCC3)cc(OC)c1OC,6.87,1
+COc1ccc2c(c1OC)CC(C)C2=O,IC50,=,380.0,nM,6.42,B,Homo sapiens,CHEMBL643383,COc1ccc2c(c1OC)CC(C)C2=O,6.42,1
+Clc1ccc(CO/N=C(\Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,IC50,=,4646.5,nM,5.33,B,Homo sapiens,CHEMBL1909212,Clc1ccc(CO/N=C(\Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,5.33,0
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc(C(=O)c3ccccc3)cc2)c1.Cl,IC50,=,5.4,nM,8.27,B,Homo sapiens,CHEMBL644104,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc(C(=O)c3ccccc3)cc2)c1.Cl,8.27,1
+COCC[N+]1(C)CCCC(C(=O)c2cc3cc(OC)c(OC)cc3s2)CC1,IC50,=,53.0,nM,7.28,B,Homo sapiens,CHEMBL832763,COCC[N+]1(C)CCCC(C(=O)c2cc3cc(OC)c(OC)cc3s2)CC1,7.28,1
+CCN(CCCCCC(=O)N1CCC(CCC2CCN(C(=O)CCCCCN(CC)Cc3ccccc3OC)CC2)CC1)Cc1ccccc1OC.O=C(O)C(=O)O,IC50,=,7.413,nM,8.13,B,Homo sapiens,CHEMBL917209,CCN(CCCCCC(=O)N1CCC(CCC2CCN(C(=O)CCCCCN(CC)Cc3ccccc3OC)CC2)CC1)Cc1ccccc1OC.O=C(O)C(=O)O,8.13,1
+CCN(CCCCCCNC1=C(F)C(=O)C(NCCCCCCN(CC)Cc2ccccc2OC)=C(F)C1=O)Cc1ccccc1OC,IC50,=,5.17,nM,8.29,B,Homo sapiens,CHEMBL895407,CCN(CCCCCCNC1=C(F)C(=O)C(NCCCCCCN(CC)Cc2ccccc2OC)=C(F)C1=O)Cc1ccccc1OC,8.29,1
+COc1ccc(C2C(c3ccccc3)NC3(C(=O)Nc4ccc([N+](=O)[O-])cc43)C23Cc2cc(OC)c(OC)cc2C3=O)cc1OC,IC50,=,15370.0,nM,4.81,B,Homo sapiens,CHEMBL1293120,COc1ccc(C2C(c3ccccc3)NC3(C(=O)Nc4ccc([N+](=O)[O-])cc43)C23Cc2cc(OC)c(OC)cc2C3=O)cc1OC,4.81,0
+Cc1ccc(F)cc1,IC50,=,4900.0,nM,5.31,B,Homo sapiens,CHEMBL643382,Cc1ccc(F)cc1,5.31,0
+CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2Cc1ccccc1,IC50,=,161.0,nM,6.79,B,Homo sapiens,CHEMBL644099,CNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(C)C1N2Cc1ccccc1,6.79,1
+CCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)C1C2,IC50,=,90.0,nM,7.05,B,Homo sapiens,CHEMBL645003,CCCCNC(=O)Oc1ccc2c(c1)[C@]1(C)CCN(CC)C1C2,7.05,1
+CC1=CC2Cc3nc4oc(C)c(C)c4c(N)c3C(C1)C2,IC50,=,4780.0,nM,5.32,B,Homo sapiens,CHEMBL1041236,CC1=CC2Cc3nc4oc(C)c(C)c4c(N)c3C(C1)C2,5.32,0
+CN1CCC(/C=C2\Cc3ccccc3C2=O)CC1,IC50,=,8.4,nM,8.08,B,Homo sapiens,CHEMBL643386,CN1CCC(/C=C2\Cc3ccccc3C2=O)CC1,8.08,1
+O=C(CC1S/C(=N/c2ccc(C3CCCCC3)cc2)NC1=O)Nc1ccc(OC(F)(F)F)cc1,IC50,=,2900.0,nM,5.54,B,Homo sapiens,CHEMBL1119333,O=C(CC1S/C(=N/c2ccc(C3CCCCC3)cc2)NC1=O)Nc1ccc(OC(F)(F)F)cc1,5.54,0
+C#CCCCC[n+]1cn(C)c(/C=N/O)n1.[Cl-],IC50,=,62500.0,nM,4.2,B,Homo sapiens,CHEMBL644117,C#CCCCC[n+]1cn(C)c(/C=N/O)n1.[Cl-],4.2,0
+CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc([N+](=O)[O-])cc1,IC50,=,135.4,nM,6.87,B,Homo sapiens,CHEMBL899128,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc([N+](=O)[O-])cc1,6.87,1
+CC1Cc2ccc(F)cc2C1=O,IC50,=,380.0,nM,6.42,B,Homo sapiens,CHEMBL643383,CC1Cc2ccc(F)cc2C1=O,6.42,1
+CC1=C[C@H]2Cc3nc4cc(Cl)ccc4c(NCCCCCCCNc4c5c(nc6ccccc46)CCCC5)c3[C@@H](C1)C2.Cl.Cl.Cl,IC50,=,6.84,nM,8.16,B,Homo sapiens,CHEMBL2015198,CC1=C[C@H]2Cc3nc4cc(Cl)ccc4c(NCCCCCCCNc4c5c(nc6ccccc46)CCCC5)c3[C@@H](C1)C2.Cl.Cl.Cl,8.16,1
+CC(C)(C)c1cc[n+](C/C=C\C[n+]2ccc(C(C)(C)C)cc2)cc1.[Cl-].[Cl-],IC50,=,2000.0,nM,5.7,B,Homo sapiens,CHEMBL1646125,CC(C)(C)c1cc[n+](C/C=C\C[n+]2ccc(C(C)(C)C)cc2)cc1.[Cl-].[Cl-],5.7,0
+COc1cccc(CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc2cccc(OC)c2)c1,IC50,=,676.08,nM,6.17,B,Homo sapiens,CHEMBL638449,COc1cccc(CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc2cccc(OC)c2)c1,6.17,1
+COc1ccccc1CNCCCCCCNCCCCCNCCCCCCNCc1ccccc1OC,IC50,=,7244.36,nM,5.14,B,Homo sapiens,CHEMBL638603,COc1ccccc1CNCCCCCCNCCCCCNCCCCCCNCc1ccccc1OC,5.14,0
+CC1=CC2Cc3nc4cc(Cl)ccc4c(NCCO)c3C(C1)C2,IC50,=,9.66,nM,8.02,B,Homo sapiens,CHEMBL1041236,CC1=CC2Cc3nc4cc(Cl)ccc4c(NCCO)c3C(C1)C2,8.02,1
+c1ccc2c(NCCCCCCCCNc3c4c(nc5ccccc35)CCCCC4)c3c(nc2c1)CCCCC3,IC50,=,1.6,nM,8.8,B,Homo sapiens,CHEMBL1119333,c1ccc2c(NCCCCCCCCNc3c4c(nc5ccccc35)CCCCC4)c3c(nc2c1)CCCCC3,8.8,1
+CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3ccccc3c2)c1.Cl,IC50,=,82.6,nM,7.08,B,Homo sapiens,CHEMBL644104,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3ccccc3c2)c1.Cl,7.08,1
+O=C(CCOCCc1c[nH]c2ccccc12)NCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2,IC50,=,1.5,nM,8.82,B,Homo sapiens,CHEMBL1119333,O=C(CCOCCc1c[nH]c2ccccc12)NCCCCCNc1c2c(nc3cc(Cl)ccc13)CCCC2,8.82,1
+COc1ccc(CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc2ccc(OC)cc2)cc1,IC50,=,5754.4,nM,5.24,B,Homo sapiens,CHEMBL638449,COc1ccc(CN(C)CCCCCC(=O)N(C)CCCCCCCCN(C)C(=O)CCCCCN(C)Cc2ccc(OC)cc2)cc1,5.24,0
+CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2C(=O)OC(C)(C)C)cc1,IC50,=,268.8,nM,6.57,B,Homo sapiens,CHEMBL899128,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2C(=O)OC(C)(C)C)cc1,6.57,1
+CC1=CC2Cc3nc4oc(C5CC5)nc4c(N)c3C(C1)C2,IC50,=,50000.0,nM,4.3,B,Homo sapiens,CHEMBL1041236,CC1=CC2Cc3nc4oc(C5CC5)nc4c(N)c3C(C1)C2,4.3,0
+COc1cc(C)cc(OC)c1OC,IC50,=,4900.0,nM,5.31,B,Homo sapiens,CHEMBL643382,COc1cc(C)cc(OC)c1OC,5.31,0
+CN1C[C@H](CNC(=O)OCc2ccccc2)C[C@@H]2c3cccc4c3c(cn4C)C[C@H]21,IC50,=,1344.0,nM,5.87,B,Homo sapiens,CHEMBL1909212,CN1C[C@H](CNC(=O)OCc2ccccc2)C[C@@H]2c3cccc4c3c(cn4C)C[C@H]21,5.87,0
