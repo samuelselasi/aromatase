@@ -9,3 +9,5 @@ matplotlib
 joblib
 chembl_webresource_client
 imbalanced-learn
+# System dependencies (install separately, not via pip):
+#   sudo apt install -y gromacs gromacs-data
