@@ -9,7 +9,7 @@
 3. **Featurize** molecules with RDKit **Morgan fingerprints**.
 4. **Train** baseline ML models (classifier & regressor).
 5. **Predict** activity and pIC50 for **AfroDB/EANPDB** molecules.
-6. **Prepare receptor** (PDB **5JL9**) and **ligands** for docking.
+6. **Prepare receptor** (PDB **3S79**) and **ligands** for docking.
 7. **Dock** ligands with AutoDock **Vina 1.2.3** and collect scores.
 8. (*Optional*) **Rank** hits by docking and (optionally) fuse with ML predictions.
 
