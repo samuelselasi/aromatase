@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-02-10T18:24:22.354467",
+  "global_seed": 42,
+  "fingerprint_config": {
+    "type": "Morgan",
+    "radius": 2,
+    "nBits": 2048
+  },
+  "models": {
+    "binary_baseline": {
+      "algorithm": "RandomForestClassifier",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 2048,
+      "cv_metrics": {
+        "roc_auc": 0.9308834521553819,
+        "pr_auc": 0.9611653476266444,
+        "accuracy": 0.8846684485172457
+      },
+      "test_metrics": {
+        "roc_auc": 0.94880044901582,
+        "pr_auc": 0.9691489079088832,
+        "accuracy": 0.9011532125205931,
+        "mcc": 0.7561006325228854
+      }
+    },
+    "binary_topk512": {
+      "algorithm": "RandomForestClassifier",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 512,
+      "feature_selection": "ANOVA F-test (train-only)",
+      "cv_metrics": {
+        "roc_auc": 0.9252687695670151,
+        "pr_auc": 0.9560286614954355,
+        "accuracy": 0.8821959187136736
+      },
+      "test_metrics": {
+        "roc_auc": 0.9483109695609044,
+        "pr_auc": 0.9715737212934448,
+        "accuracy": 0.8945634266886326,
+        "mcc": 0.7393859015176631
+      }
+    },
+    "3class_baseline": {
+      "algorithm": "RandomForestClassifier",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 2048,
+      "cv_metrics": {
+        "roc_auc_ovr": 0.8745140044402302,
+        "accuracy": 0.7233176773764495
+      },
+      "test_metrics": {
+        "roc_auc_ovr": 0.869937901481434,
+        "accuracy": 0.739413680781759
+      }
+    },
+    "3class_topk512": {
+      "algorithm": "RandomForestClassifier",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 512,
+      "feature_selection": "ANOVA F-test (train-only)",
+      "cv_metrics": {
+        "roc_auc_ovr": 0.8655023170304877,
+        "accuracy": 0.7131202460617649
+      },
+      "test_metrics": {
+        "roc_auc_ovr": 0.8687302596436915,
+        "accuracy": 0.7247557003257329
+      }
+    },
+    "regression_baseline": {
+      "algorithm": "RandomForestRegressor",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 2048,
+      "cv_metrics": {
+        "r2": 0.5622064620657652,
+        "rmse": 0.9183408442636953,
+        "mae": 0.6076201543841314
+      },
+      "test_metrics": {
+        "r2": 0.6523011030761879,
+        "rmse": 0.8069558522642024,
+        "mae": 0.5686658235705551
+      }
+    },
+    "regression_topk512": {
+      "algorithm": "RandomForestRegressor",
+      "n_estimators": 100,
+      "max_depth": null,
+      "features": 512,
+      "feature_selection": "ANOVA F-test (train-only)",
+      "cv_metrics": {
+        "r2": 0.5342046674129876,
+        "rmse": 0.9452070875467228,
+        "mae": 0.6271106719644355
+      },
+      "test_metrics": {
+        "r2": 0.6140728829423374,
+        "rmse": 0.8501601941097827,
+        "mae": 0.6063885951898831
+      }
+    }
+  }
+}

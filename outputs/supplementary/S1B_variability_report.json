@@ -1,0 +1,17 @@
+{
+  "variability_analysis": {
+    "compounds_with_replicates": 633,
+    "total_compounds": 3068,
+    "mean_std_dev": 0.5582688311261055,
+    "median_std_dev": 0.0012808460695823527,
+    "max_std_dev": 8.469000211867078,
+    "mean_range": 0.9710638113296153
+  },
+  "deduplication_impact": {
+    "original_count": 4244,
+    "deduplicated_count": 3068,
+    "compounds_removed": 1176,
+    "reduction_percent": 27.70970782280867
+  },
+  "interpretation": "Deduplication mitigates inter-assay noise by collapsing replicate measurements. Using deduplicated dataset for primary modeling reduces overfitting to assay-specific artifacts."
+}
