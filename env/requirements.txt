@@ -1,0 +1,13 @@
+pandas
+numpy==1.26.4
+rdkit-pypi==2022.9.5
+chembl_webresource_client
+biopython
+scikit-learn==1.3.2
+scipy==1.10.1
+matplotlib
+joblib
+chembl_webresource_client
+imbalanced-learn
+# System dependencies (install separately, not via pip):
+#   sudo apt install -y gromacs gromacs-data
