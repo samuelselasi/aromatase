@@ -1,0 +1,51 @@
+{
+  "repo_root": "/content/aromatase-main",
+  "output_root": "/content/outputs",
+  "files": {
+    "requirements": {
+      "path": "/content/aromatase-main/env/requirements.txt",
+      "exists": true
+    },
+    "bioactivity_no_int": {
+      "path": "/content/aromatase-main/data/processed/bioactivity_data_no_intermediate.csv",
+      "exists": true
+    },
+    "bioactivity_3class": {
+      "path": "/content/aromatase-main/data/processed/bioactivity_data_3class_pIC50.csv",
+      "exists": true
+    },
+    "bioactivity_3class_dedup": {
+      "path": "/content/aromatase-main/data/processed/bioactivity_data_3class_pIC50_dedup.csv",
+      "exists": true
+    },
+    "morgan_fps": {
+      "path": "/content/aromatase-main/data/processed/bioactivity_data_descriptors_morgan.csv",
+      "exists": true
+    },
+    "morgan_fps_dedup": {
+      "path": "/content/aromatase-main/data/processed/bioactivity_data_descriptors_morgan_dedup.csv",
+      "exists": true
+    },
+    "external_chembl": {
+      "path": "/content/aromatase-main/data/external/chembl/aromatase_chembl_external.csv",
+      "exists": true
+    },
+    "external_clean": {
+      "path": "/content/aromatase-main/data/external/external_clean.csv",
+      "exists": true
+    },
+    "external_fps": {
+      "path": "/content/aromatase-main/data/external/external_fps_morgan.csv",
+      "exists": true
+    },
+    "afrodb_smiles": {
+      "path": "/content/aromatase-main/data/external/afrodb/smiles_unique_EANPDB.smi",
+      "exists": true
+    },
+    "receptor_pdbqt": {
+      "path": "/content/aromatase-main/docking/receptor.pdbqt",
+      "exists": true
+    }
+  },
+  "timestamp": "2026-02-13T20:14:21.566802"
+}
